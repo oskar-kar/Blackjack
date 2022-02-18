@@ -1,0 +1,23 @@
+Klawiszologia:
+
+H - Hit (dobranie kolejnej karty)
+S - Stand (zakoñczenie dobierania kart i przekazanie tury do krupiera)
+Spacja - Restart gry
+Escape - Wyjœcie z gry
+K - Zmiana odwrotu kart
+
+Punktacja kart w blackjacku:
+
+- Karty od dwójki do dziesi¹tki maj¹ wartoœæ równ¹ numerowi karty.
+- Walet, Dama i Król maj¹ wartoœæ równ¹ 10 punktów.
+- As ma wartoœæ równ¹ 1 lub 11, w zale¿noœci co jest lepsze dla dobieraj¹cego.
+
+Opis gry:
+
+Blackjack jest kasynow¹ wersj¹ gry w oczko. Zadaniem gracza jest uzyskaæ jak najbli¿ej (ale nie wiêcej ni¿) 21 punktów. Najwy¿szym uk³adem kart jest tzw. Blackjack, czyli As i 10 lub figura, za który gracz dostaje 150% zak³adu .
+
+W grze u¿ywa siê jednej talii z³o¿onej z 52 kart.
+
+W Blackjacka gra siê przeciwko krupierowi. Gracz stawia zak³ad na stole u¿ywaj¹c ¿etonów. Nastêpnie gracz i krupier dostaj¹ po dwie karty. Obydwie karty gracza s¹ odkryte, natomiast tylko jedna karta krupiera jest pokazana graczowi. Gracz teraz mo¿e podj¹æ decyzje o swoim nastêpnym ruchu i zadecydowaæ czy dobiera karty dalej czy te¿ koñczy swoj¹ turê.
+
+Je¿eli gracz po dobraniu kart ma wiêcej ni¿ 21 punktów, przegrywa zak³ad i krupier zabiera jego ¿etony. Je¿eli natomiast gracz ma 21 punktów lub mniej, krupier odkrywa swoj¹ zakryt¹ kartê i w zale¿noœci od liczby jego punktów mo¿e dobraæ wiêcej kart. Krupier musi graæ wed³ug nastêpuj¹cych przepisów: wzi¹æ kartê, je¿eli ma 16 punktów lub mniej i nie braæ wiêcej kart, gdy ma 17 punktów lub wiêcej (niezale¿nie, ile punktów ma gracz). Wygrywa ten, który ma sumê punktów bli¿sz¹ lub równ¹ 21. W przypadku remisu punktowego, postawiona stawka wraca do gracza.
