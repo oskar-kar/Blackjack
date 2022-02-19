@@ -22,13 +22,9 @@ Punktacja kart w blackjacku:
 
 Opis gry:
 
-Blackjack jest kasynową wersją gry w oczko. Zadaniem gracza jest uzyskać jak najbliżej (ale nie więcej niż) 21 punktów. Najwyższym układem kart jest tzw. Blackjack, czyli As i 10 lub figura, za który gracz dostaje 150% zakładu .
+Blackjack jest kasynową wersją gry w oczko. Zadaniem gracza jest uzyskać jak najbliżej (ale nie więcej niż) 21 punktów. Jeżeli gracz uzyskał więcej punktów niż krupier, jednoczesnie nie przekraczając 21 punktów lub krupier przekroczył 21 punktów, gracz wygyrwa zakład. Najwyższym układem kart jest tzw. Blackjack, czyli As i 10 lub figura, za który gracz dostaje 150% zakładu.
 
 W grze używa się jednej talii złożonej z 52 kart.
-
-W Blackjacka gra się przeciwko krupierowi. Gracz stawia zakład na stole używając żetonów. Następnie gracz i krupier dostają po dwie karty. Obydwie karty gracza są odkryte, natomiast tylko jedna karta krupiera jest pokazana graczowi. Gracz teraz może podjąć decyzje o swoim następnym ruchu i zadecydować czy dobiera karty dalej czy też kończy swoją turę.
-
-Jeżeli gracz po dobraniu kart ma więcej niż 21 punktów, przegrywa zakład i krupier zabiera jego żetony. Jeżeli natomiast gracz ma 21 punktów lub mniej, krupier odkrywa swoją zakrytą kartę i w zależności od liczby jego punktów może dobrać więcej kart. Krupier musi grać według następujących przepisów: wziąć kartę, jeżeli ma 16 punktów lub mniej i nie brać więcej kart, gdy ma 17 punktów lub więcej (niezależnie, ile punktów ma gracz). Wygrywa ten, który ma sumę punktów bliższą lub równą 21. W przypadku remisu punktowego, postawiona stawka wraca do gracza.
 
 -----------------------------------------------------------------------------------------------
 
@@ -50,3 +46,9 @@ Points in blackjack:
 - Cards from 2 to 10 have the same value as the number on the card.
 - Jack, Queen and King have the value of 10.
 - Ace value depends on what suits the player best, 1 or 11.
+
+Game description:
+
+Player's objective in Blackjack is to get as many points as possible but not more than 21. If the player has more points then dealer and not more than 21 or dealer has more than 21 points, player wins the bet. If the player gets Ace and 10 (or Jack, Queen, King), he got "Blackjack" and gets 150% winning bet.
+
+The game uses one card deck consisting of 52 cards.
